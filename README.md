@@ -1,4 +1,4 @@
-👋 Hi there, I'm @nitinmahala! 
+👋 Hi there, I'm Nitin Mahala
 
 👀 I'm captivated by the intersection of technology and creativity.
 
