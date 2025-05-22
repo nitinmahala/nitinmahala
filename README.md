@@ -118,6 +118,6 @@
   </a> 
 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" /> 
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://www.svgrepo.com/show/353657/django-icon.svg)" alt="django" width="40" height="40" /> 
   </a> 
 </p>
